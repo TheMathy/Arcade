@@ -1,0 +1,13 @@
+# Binaries
+**/bin/
+**/bin-int/
+
+# Makefile
+**/Makefile
+**.make
+
+# VS Code
+.vscode/
+
+# MacOS files
+.DS_Store
